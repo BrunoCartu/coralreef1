@@ -10,5 +10,5 @@ package coralreef1.common;
 public class Constants {
 	
 	public static final String GRID_ID = "grid";
-	public static final String CONTEXT_ID = "coralreef1";
+//	public static final String CONTEXT_ID = "coralreef1";
 }
